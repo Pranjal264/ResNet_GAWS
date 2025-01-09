@@ -20,7 +20,7 @@ Alternatively, you can use [Google Colab](https://colab.research.google.com/) to
 ## Usage
 
 - data_generation.ipynb : this notebook is used to generate training as well as testing data for the CNN model
-- RESNEt_model.ipynb : this is the main notebook which predicts the aberration strengths from focal spots array
+- RESNET_model.ipynb : this is the main notebook which predicts the aberration strengths from focal spots array
 
 A step-by-step procedure for using each notebook is incorporated into the notebooks.
 
